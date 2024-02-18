@@ -4,7 +4,8 @@ AT&amp;T Assembly Syntax
 <img width="402" alt="Screenshot 2024-02-18 at 15 46 03" src="https://github.com/dariadragomir/Assembly_laboratory_project/assets/82290545/b0dd0aad-a02f-46f6-8125-7983d956f2cf">
 </p>
 <p>
-<img width="427" alt="Screenshot 2024-02-18 at 15 49 44" src="https://github.com/dariadragomir/Assembly_laboratory_project/assets/82290545/05feccb1-262c-47e9-a03f-adb960b2870b">
+<img width="421" alt="Screenshot 2024-02-18 at 15 53 37" src="https://github.com/dariadragomir/Assembly_laboratory_project/assets/82290545/7c05260a-7526-42a6-be9c-8708dab6f9f0">
+
 </p>
 <p>
 <img width="403" alt="Screenshot 2024-02-18 at 15 46 30" src="https://github.com/dariadragomir/Assembly_laboratory_project/assets/82290545/268f634f-0c85-4772-b2ca-8a5a84d3ab71">

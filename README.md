@@ -1,4 +1,4 @@
-# Assembly_laboratory_project
+# Assembly laboratory project
 AT&amp;T Assembly Syntax
 <p>
 <img width="402" alt="Screenshot 2024-02-18 at 15 46 03" src="https://github.com/dariadragomir/Assembly_laboratory_project/assets/82290545/b0dd0aad-a02f-46f6-8125-7983d956f2cf">

@@ -1,4 +1,4 @@
-# Assembly laboratory project
+# Conway's Game of Life - assembly x86 project
 
 Computer systems architecture course - 
 AT&amp;T Assembly Syntax
